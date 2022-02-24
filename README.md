@@ -1,1 +1,1 @@
-# program-do-zgadywania-liczb-w-Pythonie
+# program_do_zgadywania_liczb_w_Pythonie
